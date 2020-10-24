@@ -1,2 +1,11 @@
 # Home-Library
-A project to organize and catalog my home library of books, movies, music, digital resources and more.
+The purpose of this app is to help you organize your home library.
+
+## Getting Started
+Coming Soon!
+
+## Installation
+
+## License
+
+## Contributors
